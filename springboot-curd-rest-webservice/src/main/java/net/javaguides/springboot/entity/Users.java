@@ -9,7 +9,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "users")
-
+//Changes for githib
 
 public class Users {
 	
