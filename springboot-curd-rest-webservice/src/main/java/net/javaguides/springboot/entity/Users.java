@@ -9,7 +9,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "users")
-//Changes for githib
+//Changes for githib1
 
 public class Users {
 	
